@@ -102,7 +102,7 @@ Once the application is running, you can:
 - Proceed to checkout and make payments using PayPal.
 - Leave ratings and reviews for products you purchase.
 
-For more detailed instructions, refer to the [Releases section](https://github.com/roniepascal/mern-ecommerce-website/releases) where you can find specific builds and their corresponding documentation.
+
 
 ## Folder Structure
 
@@ -122,27 +122,3 @@ mern-ecommerce-website/
     └── package.json         # Server dependencies
 ```
 
-## Contributing
-
-We welcome contributions! If you have suggestions or improvements, please fork the repository and create a pull request. 
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Email**: your-email@example.com
-- **GitHub**: [roniepascal](https://github.com/roniepascal)
-
-Thank you for checking out the MERN E-commerce Website! 
-
-[Explore the releases for more details!](https://github.com/roniepascal/mern-ecommerce-website/releases)
